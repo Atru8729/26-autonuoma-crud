@@ -12,14 +12,14 @@ cityBird.addCar('Tesla 3', 'white', 40);
 cityBird.intro();
 // Hi, we are CityBird and we have 3 cars available.
 
-//cityBird.carPark();
+cityBird.carPark();
 // 1. Toyota Yaris (black) is for 25EUR/day.
 // 2. Volvo S40 (red) is for 20EUR/day.
 // 3. Tesla 3 (white) is for 40EUR/day.
 
-//cityBird.updateCarPrice(0, 22);
+cityBird.updateCarPrice(0, 22);
 
-//cityBird.carPark();
+cityBird.carPark();
 // 1. Toyota Yaris (black) is for 22EUR/day.
 // 2. Volvo S40 (red) is for 20EUR/day.
 // 3. Tesla 3 (white) is for 40EUR/day.
